@@ -4,6 +4,10 @@
 # (c) 2016, Justin Mayer <https://justinmayer.com/>
 #
 # This file is part of Ansible.
+# 
+# https://github.com/ansible/ansible/blob/devel/contrib/vault/vault-keyring.py
+#
+#
 #
 # Ansible is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
